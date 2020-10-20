@@ -7,6 +7,4 @@ CS50's Mobile App Development with React Native
 
 | Project      | Description |
 | ----------- | ----------- |
-| [Project 0](/project0)      | The goal of this project is to practice JavaScript and its paradigms by creating
-a TODO app. This app should be able to add TODOs and track the number of total
-TODOs as well as the number of unchecked TODOs.|
+| [Project 0](/project0)      | The goal of this project is to practice JavaScript and its paradigms by creatinga TODO app. This app should be able to add TODOs and track the number of total TODOs as well as the number of unchecked TODOs.|
