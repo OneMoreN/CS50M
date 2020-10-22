@@ -8,5 +8,4 @@ CS50's Mobile App Development with React Native
 | Project      | Description |
 | ----------- | ----------- |
 | [Project 0](/project0) | The goal of this project is to practice JavaScript and its paradigms by creating a TODO app. |
-| ----------- | ----------- |
 | [Project 1](/project1) | Implementing a Pomodoro timer. |
